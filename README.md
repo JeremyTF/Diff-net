@@ -1,1 +1,1 @@
-# Diff-net
+# Diff-net-multi-gpu
