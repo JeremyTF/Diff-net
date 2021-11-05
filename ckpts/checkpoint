@@ -1,0 +1,6 @@
+model_checkpoint_path: "checkpointloss=2.5263.ckpt-5"
+all_model_checkpoint_paths: "checkpointloss=365.2091.ckpt-1"
+all_model_checkpoint_paths: "checkpointloss=3.6902.ckpt-2"
+all_model_checkpoint_paths: "checkpointloss=3.1204.ckpt-3"
+all_model_checkpoint_paths: "checkpointloss=2.7487.ckpt-4"
+all_model_checkpoint_paths: "checkpointloss=2.5263.ckpt-5"
